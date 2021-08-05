@@ -1,0 +1,155 @@
+E:\hocTap\DoAnChung\Demo1\bin\Debug\Demo1.exe.config
+E:\hocTap\DoAnChung\Demo1\bin\Debug\Demo1.exe
+E:\hocTap\DoAnChung\Demo1\bin\Debug\Demo1.pdb
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.Properties.Resources.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.frm_Emp_Home.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.csproj.GenerateResource.cache
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.exe
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.pdb
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.frm_Login.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.User_DonHang.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.User_KhachHang.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.User_khuyenMai.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.frm_ThayDoiKhachHang.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.User_ThongTinCaNhan.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.frm_ChinhSuaKhuyenMai.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.frm_ThemSanPhamKhuyenMai.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.frm_ThemKhuyenMai.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.csprojAssemblyReference.cache
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.frm_XemChiTietDonHang.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.frm_XemChiTietSPMua.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.frm_ThemDonHang.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.frm_ThemSanPhamMua.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.frm_ChinhSuaDonHang.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.frm_DoiMatKhau.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.ChitietNcc.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.ChitietNhap.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.ChitietSP.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.Nhasanxuat.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.User_Boss.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.User_HoaDonNhap.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.User_NhaCungCap.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.User_SanPham.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.frm_Boss_Home.resources
+E:\hocTap\DoAnChung\Demo1\obj\Debug\Demo1.User_ThongTinCuaHang.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Demo1.exe.config
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Demo1.exe
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Demo1.pdb
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.csprojAssemblyReference.cache
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.ChitietNcc.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.ChitietNhap.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.ChitietSP.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.frm_Login.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.frm_ChinhSuaDonHang.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.frm_ChinhSuaKhuyenMai.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.frm_DoiMatKhau.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.frm_ThemDonHang.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.frm_ThemKhuyenMai.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.frm_ThemSanPhamKhuyenMai.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.frm_ThemSanPhamMua.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.frm_XemChiTietDonHang.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.frm_XemChiTietSPMua.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.Nhasanxuat.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.Properties.Resources.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.frm_ThayDoiKhachHang.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.frm_Emp_Home.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.frm_Boss_Home.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.User_Boss.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.User_DonHang.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.User_HoaDonNhap.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.User_KhachHang.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.User_khuyenMai.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.User_NhaCungCap.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.User_SanPham.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.User_ThongTinCaNhan.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.User_ThongTinCuaHang.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.csproj.GenerateResource.cache
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.exe
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.pdb
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.ThongKe.resources
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.csproj.CopyComplete
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\RdlCompile.cache
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\RdlCompile.compiled
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\EnvDTE.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\stdole.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\EnvDTE80.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\VSLangProj.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\VSLangProj80.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Newtonsoft.Json.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.MSXML.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.Build.Framework.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\VSLangProj2.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.exe.config
+E:\hoctap\Hệ CSDL\DoAn\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
